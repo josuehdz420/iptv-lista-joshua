@@ -1,127 +1,193 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" tvg-shift=0 deinterlace=1 m3uautoload=1
-#EXTINF:-1 group-title="A. Stream",DAZN LaLiga
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+
+############################
+
+ACESTREAM (Motor Ace)
+
+############################
+
+#EXTINF:-1 group-title="AceStream",DAZN LaLiga
 http://127.0.0.1:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a
-#EXTINF:-1 group-title="A. Stream",DAZN 1
+
+#EXTINF:-1 group-title="AceStream",DAZN 1
 http://127.0.0.1:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
-#EXTINF:-1 group-title="A. Stream",DAZN 2
+
+#EXTINF:-1 group-title="AceStream",DAZN 2
 http://127.0.0.1:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6
-#EXTINF:-1 group-title="A. Stream",DAZN 3
+
+#EXTINF:-1 group-title="AceStream",DAZN 3
 http://127.0.0.1:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594
-#EXTINF:-1 group-title="A. Stream",DAZN 4
+
+#EXTINF:-1 group-title="AceStream",DAZN 4
 http://127.0.0.1:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4
-#EXTINF:-1 group-title="A. Stream",M. Deportes HD
+
+#EXTINF:-1 group-title="AceStream",M. Deportes HD
 http://127.0.0.1:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797339e7
-#EXTINF:-1 group-title="A. Stream",M. Deportes 2 HD
+
+#EXTINF:-1 group-title="AceStream",M. Deportes 2 HD
 http://127.0.0.1:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a
-#EXTINF:-1 group-title="A. Stream",M. Deportes 3 HD
+
+#EXTINF:-1 group-title="AceStream",M. Deportes 3 HD
 http://127.0.0.1:6878/ace/getstream?infohash=8bea71c9fea2605ee9f0e06b2d3795a10662f223
-#EXTINF:-1 group-title="A. Stream",M. Deportes 4 HD
+
+#EXTINF:-1 group-title="AceStream",M. Deportes 4 HD
 http://127.0.0.1:6878/ace/getstream?infohash=12bea597fc5075a07becfd34ba11dcad4f31a2c4
-#EXTINF:-1 group-title="A. Stream",M. Deportes 5 HD
+
+#EXTINF:-1 group-title="AceStream",M. Deportes 5 HD
 http://127.0.0.1:6878/ace/getstream?infohash=123271cdd9cbabf1d13b42541a2c73c196d96eb8
-#EXTINF:-1 group-title="A. Stream",M. Golf HD
+
+#EXTINF:-1 group-title="AceStream",M. Deportes 6 HD
+http://127.0.0.1:6878/ace/getstream?infohash=bc7dff93fc8c6eea22c4b12a453de265d63cd457
+
+#EXTINF:-1 group-title="AceStream",M. Golf HD
 http://127.0.0.1:6878/ace/getstream?infohash=b715ba3d23d3dca6736ac86990efe105087c3401
-#EXTINF:-1 group-title="A. Stream",M. LaLiga
+
+#EXTINF:-1 group-title="AceStream",M. LaLiga
 http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
-#EXTINF:-1 group-title="A. Stream",M. LaLiga 2
+
+#EXTINF:-1 group-title="AceStream",M. LaLiga 2
 http://127.0.0.1:6878/ace/getstream?infohash=ece9d873508195d3cbb61d4edd428b59f47a1541
-#EXTINF:-1 group-title="A. Stream",M. LaLiga 3
+
+#EXTINF:-1 group-title="AceStream",M. LaLiga 3
 http://127.0.0.1:6878/ace/getstream?infohash=b24546262982de27283bb378307bb427509ed814
-#EXTINF:-1 group-title="A. Stream",M. LaLiga 4
+
+#EXTINF:-1 group-title="AceStream",M. LaLiga 4
 http://127.0.0.1:6878/ace/getstream?infohash=4406d0bf8ce6ff77e13891a4e7a6e2fea124e4fb
-#EXTINF:-1 group-title="A. Stream",M. Champions (1)
-http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
-#EXTINF:-1 group-title="A. Stream",M. Champions (2)
-http://127.0.0.1:6878/ace/getstream?infohash=dfa66881b9613a77bd5479f6eedc5542504c3ef7
-#EXTINF:-1 group-title="A. Stream",M. Champions 2
-http://127.0.0.1:6878/ace/getstream?infohash=cc3d749cfd30877b418f1d59a80d9291e0f091c8
-#EXTINF:-1 group-title="A. Stream",M. Champions 3
-http://127.0.0.1:6878/ace/getstream?infohash=8cc8e3c092fa238bc0cbc65382ae436131fc3eab
-#EXTINF:-1 group-title="A. Stream",M. Champions 4
-http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005
+
+############################
+
+STREAMS INESTABLES
+
+############################
+
 #EXTINF:-1 group-title="Inestables",Canal 4 SV
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/50474
+
 #EXTINF:-1 group-title="Inestables",DAZN LaLiga (1)
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/547005
+
 #EXTINF:-1 group-title="Inestables",DAZN LaLiga (2)
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/144037
+
 #EXTINF:-1 group-title="Inestables",M. Plus
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/547002
+
 #EXTINF:-1 group-title="Inestables",M. LaLiga
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/475825
+
 #EXTINF:-1 group-title="Inestables",Sky LaLiga
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/475833
+
 #EXTINF:-1 group-title="Inestables",ESPN (1)
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/401651
+
 #EXTINF:-1 group-title="Inestables",ESPN (2)
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/528512
+
 #EXTINF:-1 group-title="Inestables",ESPN (3)
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/528467
+
 #EXTINF:-1 group-title="Inestables",ESPN Channel (1)
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/528457
+
 #EXTINF:-1 group-title="Inestables",ESPN Channel 2
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/516684
+
 #EXTINF:-1 group-title="Inestables",DAZN 1
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/113192
+
 #EXTINF:-1 group-title="Inestables",DAZN 1 HD
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/110360
+
 #EXTINF:-1 group-title="Inestables",DAZN 2
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/113193
+
 #EXTINF:-1 group-title="Inestables",DAZN 3
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/113194
+
 #EXTINF:-1 group-title="Inestables",M. Champions (1)
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/535214
+
 #EXTINF:-1 group-title="Inestables",M. Champions (2)
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/526924
+
 #EXTINF:-1 group-title="Inestables",M. Vamos
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/531415
+
 #EXTINF:-1 group-title="Inestables",La 1
 http://infinitisurl.com:8080/ecachangoluisa/TLsQUgYWRAzn/110038
+
+############################
+
+STREAMS MEDIO ESTABLES
+
+############################
+
 #EXTINF:-1 group-title="Medio Estables",Canal 4 SV
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/9315
+
 #EXTINF:-1 group-title="Medio Estables",ESPN
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/9516
+
 #EXTINF:-1 group-title="Medio Estables",ESPN (2)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/9521
+
 #EXTINF:-1 group-title="Medio Estables",ESPN (3)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/9522
+
 #EXTINF:-1 group-title="Medio Estables",ESPN (4)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/179479
+
 #EXTINF:-1 group-title="Medio Estables",ESPN (5)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/157558
+
 #EXTINF:-1 group-title="Medio Estables",ESPN Channel
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/9525
+
 #EXTINF:-1 group-title="Medio Estables",ESPN Deportes
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/179504
+
 #EXTINF:-1 group-title="Medio Estables",Fox Deportes
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/9571
+
 #EXTINF:-1 group-title="Medio Estables",Fox Sports
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/9575
+
 #EXTINF:-1 group-title="Medio Estables",Win Sports (1)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/8511
+
 #EXTINF:-1 group-title="Medio Estables",Win Sports (2)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/8510
+
 #EXTINF:-1 group-title="Medio Estables",M. Vamos
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/8134
+
 #EXTINF:-1 group-title="Medio Estables",La 1
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/8192
+
 #EXTINF:-1 group-title="Medio Estables",M. Deportes
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/161915
+
 #EXTINF:-1 group-title="Medio Estables",DAZN 1
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/161922
+
 #EXTINF:-1 group-title="Medio Estables",DAZN 2
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/161923
+
 #EXTINF:-1 group-title="Medio Estables",M. LaLiga
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/161912
+
 #EXTINF:-1 group-title="Medio Estables",M. LaLiga (2)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/161931
+
 #EXTINF:-1 group-title="Medio Estables",M. LaLiga (3)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/161959
+
 #EXTINF:-1 group-title="Medio Estables",M. LaLiga (4)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/162017
+
 #EXTINF:-1 group-title="Medio Estables",M. LaLiga (5)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/162018
+
 #EXTINF:-1 group-title="Medio Estables",M. LaLiga (6)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/162019
-
-
