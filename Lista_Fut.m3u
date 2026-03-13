@@ -54,19 +54,19 @@ http://127.0.0.1:6878/ace/getstream?infohash=b24546262982de27283bb378307bb427509
 #EXTINF:-1 group-title="AceStream",M. LaLiga 4
 http://127.0.0.1:6878/ace/getstream?infohash=4406d0bf8ce6ff77e13891a4e7a6e2fea124e4fb
 
-#EXTINF:-1 group-title="A. Stream",M. Champions (1)
+#EXTINF:-1 group-title="AceStream",M. Champions (1)
 http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
 
-#EXTINF:-1 group-title="A. Stream",M. Champions (2)
+#EXTINF:-1 group-title="AceStream",M. Champions (2)
 http://127.0.0.1:6878/ace/getstream?infohash=dfa66881b9613a77bd5479f6eedc5542504c3ef7
 
-#EXTINF:-1 group-title="A. Stream",M. Champions 2
+#EXTINF:-1 group-title="AceStream",M. Champions 2
 http://127.0.0.1:6878/ace/getstream?infohash=cc3d749cfd30877b418f1d59a80d9291e0f091c8
 
-#EXTINF:-1 group-title="A. Stream",M. Champions 3
+#EXTINF:-1 group-title="AceStream",M. Champions 3
 http://127.0.0.1:6878/ace/getstream?infohash=8cc8e3c092fa238bc0cbc65382ae436131fc3eab
 
-#EXTINF:-1 group-title="A. Stream",M. Champions 4
+#EXTINF:-1 group-title="AceStream",M. Champions 4
 http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005
 
 ############################
