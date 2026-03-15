@@ -69,8 +69,59 @@ http://127.0.0.1:6878/ace/getstream?infohash=8cc8e3c092fa238bc0cbc65382ae436131f
 #EXTINF:-1 group-title="AceStream",M. Champions 4
 http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005
 
-#EXTINF:-1 group-title="AceStream",ESPN (1)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c1dc6eae98863efdaf1ac941a620b2eb5ee7fce0
+############################
+
+ACESTREAM (Motor Ace // Diferentes)
+
+############################
+
+#EXTINF:-1 group-title="AceStream Legacy",ESPN
+http://127.0.0.1:6878/ace/getstream?id=c1dc6eae98863efdaf1ac941a620b2eb5ee7fce0&pid=6841
+
+#EXTINF:-1 group-title="AceStream Legacy",DAZN LaLiga (1)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
+
+#EXTINF:-1 group-title="AceStream Legacy",DAZN LaLiga (2)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+
+#EXTINF:-1 group-title="AceStream Legacy",DAZN LaLiga (3)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=19f28f60c908f987b1a03da078e63320d7bf29e8
+
+#EXTINF:-1 group-title="AceStream Legacy",M. LaLiga
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=41933
+
+#EXTINF:-1 group-title="AceStream Legacy",M. LaLiga 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+
+#EXTINF:-1 group-title="AceStream Legacy",M. LaLiga 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=571ce113b9d600a145766443d7417eccab2e1846
+
+#EXTINF:-1 group-title="AceStream Legacy",M. LaLiga 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=22178d72e0f255dedd7e56f9474fea879289a6f1
+
+#EXTINF:-1 group-title="AceStream Legacy",M. Champions (1)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1 group-title="AceStream Legacy",M. Champions (2)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=075046a3127123ac964468f365dd75c8b7a263ce
+
+#EXTINF:-1 group-title="AceStream Legacy",M. Champions 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+
+#EXTINF:-1 group-title="AceStream Legacy",M. Champions 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+
+#EXTINF:-1 group-title="AceStream Legacy",M. Champions 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+
+#EXTINF:-1 group-title="AceStream Legacy",Ligue 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b0260a1261eb3817c353ef0a6862747dee18cdda
+
+#EXTINF:-1 group-title="AceStream Legacy",Ligue 1 (2)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=af468a318ad209b29a042a9080b519c6b40cec79
+
+#EXTINF:-1 group-title="AceStream Legacy",TNT Sports Premium
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2fab80a8445e31cb98169c0907600e1545ea8557
 
 ############################
 
