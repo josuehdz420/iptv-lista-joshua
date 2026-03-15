@@ -69,14 +69,8 @@ http://127.0.0.1:6878/ace/getstream?infohash=8cc8e3c092fa238bc0cbc65382ae436131f
 #EXTINF:-1 group-title="AceStream",M. Champions 4
 http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005
 
-#EXTINF:-1 group-title="AceStream",ESPN (1)
-http://127.0.0.1:6878/ace/getstream?infohash=c1dc6eae98863efdaf1ac941a620b2eb5ee7fce0
-
-#EXTINF:-1 group-title="AceStream",ESPN (2)
-acestream://c1dc6eae98863efdaf1ac941a620b2eb5ee7fce0
-
-#EXTINF:-1 group-title="AceStream",ESPN (3)
-c1dc6eae98863efdaf1ac941a620b2eb5ee7fce0
+#EXTINF:-1 group-title="AceStream",ESPN
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c1dc6eae98863efdaf1ac941a620b2eb5ee7fce0
 
 ############################
 
