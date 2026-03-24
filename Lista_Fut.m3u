@@ -219,10 +219,6 @@ http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/179479
 #EXTINF:-1 group-title="Medio Estables",ESPN (5)
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/157558
 
-#EXTINF:-1,Canal prueba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9QoIe8JnVLw4c7PrAyLwFLJLd6m-hmccxkp4ZbNA9V_T/m3u8
-
 #EXTINF:-1 group-title="Medio Estables",ESPN Channel
 http://live.zapping.life:8080/DainerR2023@/26c1ca8dbd2f/9525
 
