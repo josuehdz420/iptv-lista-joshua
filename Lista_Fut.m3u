@@ -108,6 +108,9 @@ http://127.0.0.1:6878/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8&
 #EXTINF:-1 group-title="AceStream Legacy",DAZN LaLiga (4)
 http://127.0.0.1:6878/ace/getstream?infohash=633a6637f12d4d3dfa5b4f0a8460ab5523fe537c
 
+#EXTINF:-1 group-title="AceStream Legacy",DAZN LaLiga (5)
+http://127.0.0.1:6878/ace/getstream?infohash=86d876d7f315a1abee1a22ba48bae8525df49b05
+
 #EXTINF:-1 group-title="AceStream Legacy",M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=41933
 
