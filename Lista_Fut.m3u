@@ -117,6 +117,9 @@ http://127.0.0.1:6878/ace/getstream?infohash=86d876d7f315a1abee1a22ba48bae8525df
 #EXTINF:-1 group-title="AceStream Legacy",M. LaLiga
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=41933
 
+#EXTINF:-1 group-title="AceStream Legacy",M. LaLiga (2)
+http://127.0.0.1:6878/ace/getstream?infohash=ec44b73af850bb0c514f2e6d11d125a3dffd73e9
+
 #EXTINF:-1 group-title="AceStream Legacy",M. LaLiga 2
 http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe&pid=45947
 
