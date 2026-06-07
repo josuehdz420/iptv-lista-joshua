@@ -135,6 +135,12 @@ http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&
 #EXTINF:-1 group-title="AceStream Legacy",M. Champions (2)
 http://127.0.0.1:6878/ace/getstream?id=075046a3127123ac964468f365dd75c8b7a263ce&pid=45274
 
+#EXTINF:-1 group-title="AceStream Legacy",M. Champions (3)
+http://127.0.0.1:6878/ace/getstream?id=931fd4c24398a24beb9b6ede856ca34339ff2c22&pid=12808
+
+#EXTINF:-1 group-title="AceStream Legacy",M. Champions (4)
+http://127.0.0.1:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439&pid=45493
+
 #EXTINF:-1 group-title="AceStream Legacy",M. Champions 2
 http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&pid=13087
 
